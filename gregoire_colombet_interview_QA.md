@@ -1,11 +1,15 @@
 #General certifications
+
 ##ITAR L'ITAR (International Traffic in Arms Regulations) 
+
 Ensemble de réglementations fédérales américaines rigoureuses, gérées par le Département d'État, qui contrôlent l'exportation, l'importation et le transfert de technologies, de données techniques et de services de défense recensés sur la United States Munitions List (USML). Elle vise à protéger la sécurité nationale en restreignant l'accès à ces matériels aux personnes américaines uniquement.
 
 ##ANAFI Parrot 
+
 Offers certified training programs for ANAFI USA and ANAFI Ai drones, designed to train pilots in safe and effective operation. The training covers ground school and hands-on flight, specifically tailored to the drone model (USA/Ai). Additionally, ANAFI Ai holds network certifications (Verizon, AT&T, FirstNet) and utilizes FIPS140-2 compliant cybersecurity.
 
 ##MIL-SPEC MIL-SPEC (Military Specification) 
+
 Refers to technical standards set by the U.S. Department of Defense to ensure products meet strict performance, reliability, and compatibility requirements. These standards cover materials, design, and testing, commonly used in defense, aerospace, and specialized industrial sectors.
 
 # Interview Q&A — Grégoire Colombet × Parrot HR
